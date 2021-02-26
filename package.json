@@ -1,0 +1,22 @@
+{
+  "name": "invidiouspuppeteer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cookie": "^0.4.1",
+    "dockerode": "^3.2.1",
+    "ghost-cursor": "^1.0.6",
+    "got": "^11.8.0",
+    "puppeteer": "^5.4.1",
+    "puppeteer-extra": "^3.1.15",
+    "puppeteer-extra-plugin-stealth": "^2.6.5"
+  }
+}
